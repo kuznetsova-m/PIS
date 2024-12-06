@@ -1,0 +1,14 @@
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.csproj.AssemblyReference.cache
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.Properties.Resources.resources
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.csproj.GenerateResource.cache
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.csproj.CoreCompileInputs.cache
+D:\work\RoadmapApp\RoadmapApp\bin\Debug\RoadmapApp.exe.config
+D:\work\RoadmapApp\RoadmapApp\bin\Debug\RoadmapApp.exe
+D:\work\RoadmapApp\RoadmapApp\bin\Debug\RoadmapApp.pdb
+D:\work\RoadmapApp\RoadmapApp\bin\Debug\Newtonsoft.Json.dll
+D:\work\RoadmapApp\RoadmapApp\bin\Debug\Newtonsoft.Json.xml
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.csproj.Up2Date
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.exe
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.pdb
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.Forms.FormMain.resources
+D:\work\RoadmapApp\RoadmapApp\obj\Debug\RoadmapApp.Forms.FormLogin.resources
